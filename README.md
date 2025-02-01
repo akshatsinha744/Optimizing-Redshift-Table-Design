@@ -1,0 +1,1 @@
+# Optimizing-Redshift-Table-Design
